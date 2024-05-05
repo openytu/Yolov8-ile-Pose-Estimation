@@ -3,7 +3,7 @@ import cv2
 import time
 
 model_path = 'models/yolov8n-pose.pt'
-cap = cv2.VideoCapture(0)
+cap = cv2.VideoCapture("videos/")
 model = YOLO(model_path)
 
 while True:
