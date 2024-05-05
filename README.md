@@ -4,4 +4,6 @@ Bu projemizde Yolov8 ile pose estimation(postür çıkarımı) yapacağız. Pose
 
 Örneğin şınav çeken sporcunun kaç şınav çektiğini, vucüt duruşunun uygunluğunu vb birçok durumu ele alabiliriz.
 
+<img src="./resimler/resim_1.png" alt="Yolov8 ile Pose Estimation" width="1280">
+
 
