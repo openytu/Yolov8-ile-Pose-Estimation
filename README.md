@@ -6,4 +6,24 @@ Bu projemizde Yolov8 ile pose estimation(postür çıkarımı) yapacağız. Pose
 
 <img src="./resimler/resim_1.png" alt="Yolov8 ile Pose Estimation" width="300">
 
+Resimde bir tenis sporcusunun vucüdundaki bazı önemli noktalar(eklem noktaları vs.) tespit edilmiştir. Bunlar kullanılarak çeşitli bilgisayarlı görü projeleri gerçekleştirilebilir. Unutmayın tek sınır sizin hayal gücünüzdür :)
+
+Şimdi yazılımı çalıştırmak için repoyu klonlayalım:
+
+```shell
+
+git clone https://github.com/yunusemre2334/yolov8
+
+```
+
+
+Ardından yazılımı çalıştıralım
+
+```shell
+
+python yolov8_kisi_sayisi.py -m best.pt -s e.mp4
+
+```
+
+Bugünkü projemizin de sonuna geldik. Yeni bilgisayarlı görü projelerinde görüşmek üzere.
 
