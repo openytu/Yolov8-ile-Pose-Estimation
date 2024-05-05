@@ -12,7 +12,7 @@ Resimde bir tenis sporcusunun vucüdundaki bazı önemli noktalar(eklem noktalar
 
 ```shell
 
-git clone https://github.com/yunusemre2334/yolov8
+git clone https://github.com/openytu/Yolov8-ile-Pose-Estimation
 
 ```
 
@@ -21,7 +21,7 @@ Ardından yazılımı çalıştıralım
 
 ```shell
 
-python yolov8_kisi_sayisi.py -m best.pt -s e.mp4
+python pose.py 
 
 ```
 
